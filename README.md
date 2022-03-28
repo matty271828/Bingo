@@ -7,6 +7,7 @@ BingoRunner provides entry to the program by creating and executing an instance 
 #### BingoCard
 
 #### BingoController
+The BingoController is responsible for displaying the menu, and reacting to user input and acting upon it. Additional methods can: Set the size of the required BingoCard, maintain a data structure for storing all player cards, identify the winner, and finally reset all cards when restarting the game.
 
 #### Defaults
 The defaults class provides a for definition of constants and certain getters and setters
